@@ -1,0 +1,27 @@
+.header {
+  grid-column: 1/7;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.header-left {
+  grid-column: 1/2;
+}
+
+.header-center {
+  grid-column: 2/5;
+}
+
+.header-right {
+  grid-column: 5/6;
+  
+}
+
+.clear-btn {
+  width: 35%;
+  border: none;
+  background-color: #828584;
+  padding: 5px 15px;
+  color: #fff;
+  border-radius: 3px;
+}

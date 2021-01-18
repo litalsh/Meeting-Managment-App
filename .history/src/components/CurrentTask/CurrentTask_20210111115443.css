@@ -1,0 +1,4 @@
+.current-task-container {
+  grid-column: 2/6;
+  text-align: center;
+}

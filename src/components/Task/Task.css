@@ -1,0 +1,44 @@
+.task-item {
+  display: grid;
+  border: 1px solid AliceBlue;
+  margin: 5px auto;
+  background-color: #fff;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.remove {
+  width: 1.5vw;
+  height: 1.5vw;
+  min-width: 19px;
+  min-height: 19px;
+  align-self: center;
+  margin-right: 10px;
+  border-radius: 50%;
+  border: none;
+  font-weight: bold;
+  color: gray;
+  cursor: pointer;
+  font-size: 0.8rem;
+  justify-self: end
+}
+
+.duration-display {
+  margin-left: 10px;
+}
+
+.task-title {
+  text-align: center;
+}
+
+.stack-list>.task-item {
+  width: 100%;
+  grid-template-columns: 1fr 3fr 1fr;
+  line-height: 40px;
+}
+
+.heap-list>.task-item {
+  width: 100%;
+  grid-template-columns:  5fr 1fr;
+  line-height: 30px;
+}

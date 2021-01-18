@@ -1,0 +1,13 @@
+.heap-container {
+  grid-column: 1/7;
+}
+
+.heap-list {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  grid-gap: 20px;
+}
+
+.heap-list>.task-item {
+  width: ;
+}

@@ -1,0 +1,12 @@
+.clear-btn {
+  display: flex;
+  grid-column: 1/2;
+  width: 35%;
+  margin: 20px auto;
+  justify-content: center;
+  border: none;
+  background-color: #828584;
+  padding: 5px 15px;
+  color: #fff;
+  border-radius: 3px;
+}

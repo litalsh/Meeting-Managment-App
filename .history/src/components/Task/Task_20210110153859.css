@@ -1,0 +1,25 @@
+.remove {
+  width: 1.5vw;
+  height: 1.5vw;
+  min-width: 19px;
+  min-height: 19px;
+  align-self: center;
+  margin-right: 10px;
+  border-radius: 50%;
+  border: none;
+  font-weight: bold;
+  color: gray;
+  cursor: pointer;
+  font-size: 0.8rem;
+  justify-self: end
+}
+
+.task-item {
+  border: 1px solid AliceBlue;
+  width: 90%;
+  line-height: 40px;
+  margin: -1px auto;
+  position: relative;
+  background-color: #fff;
+  cursor: pointer;
+}

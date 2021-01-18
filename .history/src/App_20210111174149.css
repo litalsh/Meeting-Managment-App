@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+
+
+body{
+  background-color:  #eaeff4;
+ }
+
+.App {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 15px;
+  margin: 10px 30px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+legend {
+  margin: 0 auto;
+  font-size: 1.2rem;
+  font-weight: 500;
+  background-color: #00f0c4;
+  padding: 5px 15px;
+  color: #fff;
+  border-radius: 3px;
+ }
+
+ fieldset {
+   border-radius: 5px;
+ }

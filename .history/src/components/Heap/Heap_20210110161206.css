@@ -1,0 +1,8 @@
+.heap-container {
+  grid-column: 1/7;
+}
+
+.heap-list {
+  display: flex;
+  flex-direction: row;
+}

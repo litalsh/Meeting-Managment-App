@@ -1,0 +1,23 @@
+import React, { useState, useEffect } from 'react';
+
+const Task = () => {
+  const [timer, setTimer] = useState(0)
+  
+  let minutes = Math.floor(timer / 60);
+  let seconds = Math.abs(timer % 60);
+  minutes = minutes.toString().length === 1 ? "0" + minutes : minutes;
+  seconds = seconds.toString().length === 1 ? "0" + seconds : seconds;
+
+  return (
+    <li className={props.taskTypeClass} key={props.id} onDoubleClick={props.move}>
+      <div className={props.displayClass}>
+        <span className="duration-display" >{minutes}:{seconds}</span>
+      </div>
+      <label className={props.checked}>{props.title}</label>
+      <button className="remove" onClick={props.remove}>X</button>
+    </li>
+  );
+}
+
+export default Task;
+

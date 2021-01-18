@@ -1,0 +1,27 @@
+.heap-container {
+  grid-column: 1/7;
+  display: flex;
+  flex-direction: column;
+}
+
+.heap-list {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  grid-gap: 5px 20px;
+}
+
+.heap-list>.task-item {
+  width: 100%;
+}
+
+.heap-input {
+  border: 1px solid #ccc;
+  width: 70%;
+  line-height: 1.8em;
+  margin: 5px auto;
+  position: relative;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 1rem;
+  padding: 0;
+}

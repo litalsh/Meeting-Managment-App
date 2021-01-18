@@ -1,0 +1,28 @@
+.header {
+  grid-column: 1/7;
+}
+
+.header-left {
+  grid-column: 1/2;
+}
+
+.header-center {
+  grid-column: 2/6;
+}
+
+.header-right {
+  grid-column: 7/7;
+}
+
+.clear-btn {
+  display: flex;
+  grid-column: 6/7;
+  width: 35%;
+  margin: 20px auto;
+  justify-content: center;
+  border: none;
+  background-color: #828584;
+  padding: 5px 15px;
+  color: #fff;
+  border-radius: 3px;
+}

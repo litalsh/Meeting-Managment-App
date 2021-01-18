@@ -1,0 +1,45 @@
+.current-task-container {
+  grid-column: 2/6;
+  text-align: center;
+  background-color: #fff;
+  width: 80%;
+  margin: 0 auto;
+  border-radius: 5px;
+  height: 95px;
+}
+
+.current-title > h1 {
+  margin: 0;
+}
+
+.current-timer {
+  margin-top: 10px;
+}
+
+.current-timer > h4 {
+  margin: 0;
+}
+
+.current-title {
+  margin: 10px;
+  position: relative;
+  z-index: 3;
+}
+
+.current-task-background {
+  display: flex;
+  flex-flow: nowrap;
+  width: 100%;
+  height: 25%;
+  position: relative;
+  z-index: 0;
+
+}
+
+.time-bars {
+  height: 100%;
+  background-color: deeppink;
+  margin: 0 3px;
+  width: 10%;
+  border-radius: 5px;
+}

@@ -1,0 +1,6 @@
+.stack-container {
+  grid-column: 1/4;
+  display: flex;
+  flex-direction: column-reverse;
+}
+

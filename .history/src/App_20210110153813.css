@@ -1,0 +1,16 @@
+body{
+  background-color:  #eaeff4;
+ }
+
+.App {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 15px;
+  margin: 10px 30px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}

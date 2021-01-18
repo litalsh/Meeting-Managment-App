@@ -1,0 +1,15 @@
+.remove {
+  width: 1.5vw;
+  height: 1.5vw;
+  min-width: 19px;
+  min-height: 19px;
+  align-self: center;
+  margin-right: 10px;
+  border-radius: 50%;
+  border: none;
+  font-weight: bold;
+  color: gray;
+  cursor: pointer;
+  font-size: 0.8rem;
+  justify-self: end
+}

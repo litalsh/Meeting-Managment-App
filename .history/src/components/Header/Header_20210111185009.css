@@ -1,0 +1,33 @@
+.header {
+  grid-column: 1/7;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-left {
+  grid-column: 1/2;
+}
+
+.header-center {
+  width: 100%;
+}
+
+.instructions {
+  text-align: center;
+  width: 100%;
+}
+
+.header-right {
+  width: 100%;
+  
+  
+}
+
+.clear-btn {
+  width: 100%;
+  border: none;
+  background-color: #828584;
+  padding: 5px 15px;
+  color: #fff;
+  border-radius: 3px;
+}
