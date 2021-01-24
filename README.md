@@ -7,9 +7,9 @@ Build an app that helps keep track of the topics that are discussed and the time
 
 The app requirements:
 - Create 3 lists: 
-  Stack - the topics to discuss 
-  Notes - the ability to add notes to the current topic
-  Heap - topics to be discussed in the future
+  - Stack - the topics to discuss 
+  - Notes - the ability to add notes to the current topic
+  - Heap - topics to be discussed in the future
 - Add a timer that counts the time that passes since it was added for each task that is added to to the stack list.
 - Add visual indication for each minute passing for the current topic.
 - Download a RTF file that contains a summary of the meeting.
