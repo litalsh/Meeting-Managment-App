@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Meeting-Managment-App/static/css/main.4dd9950f.chunk.css",
+    "main.css": "/Meeting-Managment-App/static/css/main.64a03da6.chunk.css",
     "main.js": "/Meeting-Managment-App/static/js/main.29558f00.chunk.js",
     "main.js.map": "/Meeting-Managment-App/static/js/main.29558f00.chunk.js.map",
     "runtime-main.js": "/Meeting-Managment-App/static/js/runtime-main.d83a2f60.js",
@@ -10,13 +10,13 @@
     "static/js/3.29cd9834.chunk.js": "/Meeting-Managment-App/static/js/3.29cd9834.chunk.js",
     "static/js/3.29cd9834.chunk.js.map": "/Meeting-Managment-App/static/js/3.29cd9834.chunk.js.map",
     "index.html": "/Meeting-Managment-App/index.html",
-    "static/css/main.4dd9950f.chunk.css.map": "/Meeting-Managment-App/static/css/main.4dd9950f.chunk.css.map",
+    "static/css/main.64a03da6.chunk.css.map": "/Meeting-Managment-App/static/css/main.64a03da6.chunk.css.map",
     "static/js/2.044252b5.chunk.js.LICENSE.txt": "/Meeting-Managment-App/static/js/2.044252b5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d83a2f60.js",
     "static/js/2.044252b5.chunk.js",
-    "static/css/main.4dd9950f.chunk.css",
+    "static/css/main.64a03da6.chunk.css",
     "static/js/main.29558f00.chunk.js"
   ]
 }
