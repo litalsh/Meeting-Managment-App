@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Meeting-Managment-App/static/css/main.64a03da6.chunk.css",
-    "main.js": "/Meeting-Managment-App/static/js/main.29558f00.chunk.js",
-    "main.js.map": "/Meeting-Managment-App/static/js/main.29558f00.chunk.js.map",
+    "main.js": "/Meeting-Managment-App/static/js/main.76ed77d5.chunk.js",
+    "main.js.map": "/Meeting-Managment-App/static/js/main.76ed77d5.chunk.js.map",
     "runtime-main.js": "/Meeting-Managment-App/static/js/runtime-main.d83a2f60.js",
     "runtime-main.js.map": "/Meeting-Managment-App/static/js/runtime-main.d83a2f60.js.map",
     "static/js/2.044252b5.chunk.js": "/Meeting-Managment-App/static/js/2.044252b5.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d83a2f60.js",
     "static/js/2.044252b5.chunk.js",
     "static/css/main.64a03da6.chunk.css",
-    "static/js/main.29558f00.chunk.js"
+    "static/js/main.76ed77d5.chunk.js"
   ]
 }
